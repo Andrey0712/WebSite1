@@ -1,8 +1,8 @@
-﻿/*body {*/
+﻿body {
 
-   /* background-image: url("/images/природа.jpg");
+    /*background-image: url("/images/природа.jpg");
     max-width: 1020px;*/
-    /*background-color: #ef9494;
+    background-color: #ef9494;
     margin:0;
 }
 img {
@@ -22,17 +22,17 @@ p {
 .content {
     margin-top: 10px;
     margin-left:500px;
-        max-width: 1020px;*/
-    /*margin: auto;*/
-    /*background-color: #dbd71c;
+        max-width: 1020px;
+    margin: auto;
+    background-color: #f1b0b0;
 }
 
-.navbar {
+/*.navbar {
     overflow: hidden;
-    background-color: #00ff21;*/
-    /*position:fixed;*/
-    /*width: 100%;
-    margin-left: 50px;
+    background-color: #00ff21;
+    position:fixed;
+    width: 100%;
+    margin-left: 10px;
 }
 .header{
     margin-top:10px;
@@ -52,4 +52,13 @@ p {
     }*/
 .margin-top-carousel {
     margin-top: 50px;
+
+}
+h1 {
+    background: #D9FFAD; /* Цвет фона под заголовком */
+    color: green; /* Цвет текста */
+    padding: 2px; /* Поля вокруг текста */
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 20px;
 }
